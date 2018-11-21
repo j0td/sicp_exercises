@@ -1,4 +1,5 @@
 #lang racket
+;; -*- coding: utf-8 -*-
 
 (define (square x)
   (* x x))
