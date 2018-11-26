@@ -1,2 +1,2 @@
 # about
-solve exercises in SICP with scheme(racket)
+solve exercises in SICP with scheme
